@@ -20,30 +20,18 @@ Use only on systems you own or have permission to test.
 git clone https://github.com/foysal0078/Fahim-Ddos-Tool
 cd fahim-ddos-tool
 python fahim_ddos.py
-
+```
 
 
 Method 2: README.md ফাইল তৈরি করুন
 
 # Fahim DDOS Tool
 
-Usage
-
-1. Run the tool: python fahim_ddos.py
-2. Select option 1
-3. Enter port (80/443/8080)
-4. Type 'FAHIM' to confirm
-5. Attack will run until stopped with Ctrl+C
-
 Developer
 
 Foysal Ebne Fahim
 
-Legal Notice
 
-Use this tool responsibly. Never attack systems without permission.
-
-```
 
 
 7. Commit করুন
