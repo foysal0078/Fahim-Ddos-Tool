@@ -1,6 +1,6 @@
 # Fahim DDoS Tool
 
-[![Screenshot-2026-01-05-09-11-14-74-84d3000e3f4017145260f7618db1d683.jpg]
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/WpfZ9sG1/Screenshot-2026-01-05-09-11-14-74-84d3000e3f4017145260f7618db1d683.jpg' border='0' alt='Screenshot-2026-01-05-09-11-14-74-84d3000e3f4017145260f7618db1d683'></a>
 
 Simple DDoS testing tool for Termux.
 
